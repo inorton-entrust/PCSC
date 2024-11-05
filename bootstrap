@@ -5,6 +5,7 @@
 # - autoconf-archive (GNU autoconf-archive)
 # - automake (GNU automake) 1.11
 # - libtool (GNU libtool) 2.2.6
+# - pkg-config
 
 set -e
 set -x
